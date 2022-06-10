@@ -1,4 +1,23 @@
 # Python list
 words = [
-
+    'abadanlıq',
+    'abajur',
+    'abay',
+    'abaylap',
+    'abaylaw',
+    'abat',
+    'aberraciya',
+    'abzal',
+    'abzallıq',
+    'abzac',
+    'abiturient',
+    'abonement',
+    'abonent',
+    'abroy',
+    'abroylı',
+    'absolyut',
+    'abstrakciya',
+    'abıroy',
+    'abırjıw',
+    'avangard',
 ]
